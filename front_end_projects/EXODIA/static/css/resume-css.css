@@ -1,0 +1,114 @@
+body{
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+a:link {
+    text-decoration: none;
+    color : #02b3e4;    
+}
+
+a:visited {
+    text-decoration: none;
+    color : #CC0000;    
+}
+
+h4{
+    color: #FFA144;
+}
+
+.header{
+    color: #02b3e4;
+}
+
+.duration{
+    float: right;
+}
+
+.resume-container{
+    width: 80%; 
+    margin-right: 0px;
+    margin-left: 120px !important;    
+}
+
+.resume-header{
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    font-size: 32px;
+}
+
+.resume-personal-info {
+    margin-bottom: 10px;
+    max-height: 200px;
+    position: relative;
+    right: 0;
+    bottom: 0;
+    border: 2px solid;
+}
+
+.resume-personal-info img {
+    height: 180px;
+    width: 180px;
+    position: relative;
+    right: 0;
+    bottom: 0;
+    margin: 5px;                
+}
+
+.resume-container{
+    margin: 10px;    
+}
+
+.personal-image {
+    border-radius: 100%;
+    padding-top: 0px;
+}            
+
+.personal-info{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 5px;
+    text-align: right;
+    color: #CD6600;
+}
+
+table {
+    width: 100%;
+}
+
+.objective-content{
+    word-wrap: normal;
+}
+
+.education-degrees{
+    margin-top: 5px;
+}
+
+#print-button{
+    align-items: center;
+    text-align: center;
+    align-self: center;
+    align-content: center;
+}
+
+#person-name{
+    font-size: 24px;
+}
+
+#print-section{
+    margin: 10px;
+    text-align: center;
+}
+
+.degree-name{
+    font-size: 16px;
+    margin-top: -4px
+}
+
+.project-name{
+    font-size: 16px; 
+    margin-top: -4px
+}
